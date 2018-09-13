@@ -1,11 +1,4 @@
-def greeting
-  puts "Hello World"  
+loop do
+  puts "I have found a time machine"
+  break
 end
-
-greeting
-greeting
-greeting
-greeting
-greeting
-
-
